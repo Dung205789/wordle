@@ -1,0 +1,4 @@
+com\debugagent\wordle\webservices\WordleWS.class
+com\debugagent\wordle\webservices\Result.class
+com\debugagent\wordle\webservices\CharacterResult.class
+com\debugagent\wordle\WordleApplication.class
